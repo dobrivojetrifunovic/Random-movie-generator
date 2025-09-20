@@ -5,6 +5,7 @@ Random movie generator is a simple Python app that helps you choose a movie to w
 # Technologies
   - Python
   - Pandas
+  - Matplotlib
   - Tkinter
   - Random module
 
